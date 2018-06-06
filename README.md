@@ -6,7 +6,7 @@ $ cd team
 $ echo "  - <You>" >> README.md
 $ git add README.md
 $ git commit -m "Adding <You>"
-$ git push gerrit HEAD:refs/for/master
+$ push-cr
 ```
 
 Team:
