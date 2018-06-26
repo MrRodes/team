@@ -11,17 +11,14 @@ $ push-cr
 
 Team:
   - Nong
-  - shekar
+  - Shekar
   - Saurabh
-  - Carey
   - Joe
   - Mike
   - Marshall
   - Lars
   - Ryan
   - Kevin
-  - Jim
-  - Brian
   - Nahee
   - Sudee
   - Roslyn
